@@ -1,3 +1,7 @@
+
+
+/* Código exemplo para o Tiny RTC usado Kl25z e o Keli Studio Cloud */
+
 #include "mbed.h"
 #include "DS1307.h"
 
